@@ -8,11 +8,11 @@ As such, as of the 16th of March, 2025 I have embarked on a Quest to write Pytho
 
 # Agenda
 
-The agenda will be to follow w3resource.com's incredible exercises that stress my thinking about lambda functions, maps, reversal's of tuples within tuples, and also provide me opportunities to study practise numpy / matplotlib skills and also combine all of the above in some more challenging _advanced_ problems.
+The agenda will be to follow [w3resource.com](https://w3resource.com/python-exercises/)'s incredible exercises that stress my thinking about lambda functions, maps, reversal's of tuples within tuples, and also provide me opportunities to study practise numpy / matplotlib skills and also combine all of the above in some more challenging _advanced_ problems.
 
 # Directory Structure.
 
-All of the files have been tangled out of my omniscient [abaj.a](abaj.ai) website, and thus more commentary can be found [https://abaj.ai/projects/ccs/programming/languages/python](there). However, the `.py` files within each representative directory are (mostly) self-contained, and definitely so if you view them in order.
+All of the files have been tangled out of my omniscient [abaj.ai](https://abaj.ai) website, and thus more commentary can be found [there](https://abaj.ai/projects/ccs/programming/languages/python). However, the `.py` files within each representative directory are (mostly) self-contained, and definitely so if you view them in order.
 
 overarchingly I have split the problems into:
 1. mastery --- contains the 100 Exercises for Mastery along with the JSON and RegEX exercises.
